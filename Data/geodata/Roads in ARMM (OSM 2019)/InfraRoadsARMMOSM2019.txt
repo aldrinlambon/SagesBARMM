@@ -1,0 +1,8 @@
+Title:	Road Network in ARMM
+File name:	InfraRoadsARMMOSM2019.shp
+Source agency:	Open Street Map
+Date:	2019
+Reference: https://www.openstreetmap.org/export
+
+Description:
+Line segments representing roads within and around ARMM.
