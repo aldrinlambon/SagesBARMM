@@ -1,0 +1,12 @@
+jupyter
+
+numpy
+pandas
+matplotlib
+
+geopandas
+gdal
+fiona
+
+esda
+libpysal

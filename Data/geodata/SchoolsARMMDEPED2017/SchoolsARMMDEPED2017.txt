@@ -1,0 +1,10 @@
+Title:	Locations of schools in ARMM
+File name:	SchoolsARMMDEPED2017.shp
+Source agency:	Department of Education
+Date:	2017
+Reference: 
+Use WGS84 (EPSG4326) as geographic coordinate.
+SchoolsDepEd2017.xlsx
+
+Description:
+Administrative boundaries of barangays belonging to ARMM.  These boundaries are indicative and should not be considered authoritative.
